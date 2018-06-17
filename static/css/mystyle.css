@@ -1,6 +1,8 @@
 .jumbotron{
-background-image: url(../../images/Flag_of_Palestine.png);
-background-repeat: no-repeat;
-background-size: 100%;
 
+margin-bottom: 0px;
+
+}
+.mypadding{
+    padding: 10px;
 }
